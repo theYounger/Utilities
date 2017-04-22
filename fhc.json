@@ -1,0 +1,3810 @@
+[
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            32.7947731,
+            -116.9625269
+         ]
+      },
+      "properties":{
+         "report":52,
+         "date":"2012-03-21",
+         "location":"El Cajon\nCA",
+         "incident":"Kassim Alhimidi of San Diego claimed his wife Shaima Alawadi was a victim of a hate crime. Now he is being charged with her murder.",
+         "formatted_address":"El Cajon, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.5964825,
+            -73.91096999999999
+         ]
+      },
+      "properties":{
+         "report":53,
+         "date":"1987-11-28",
+         "location":"Wappingers Falls\nNY",
+         "incident":"The defendants were acquitted, and one of them subsequently successfully sued Al Sharpton et al. for libel.",
+         "formatted_address":"Wappingers Falls, NY 12590, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            35.9940329,
+            -78.898619
+         ]
+      },
+      "properties":{
+         "report":54,
+         "date":"2006-03-13",
+         "location":"Durham\nNC",
+         "incident":"A black woman, Crystal Magnum, claimed to have been raped by several lacrosse players at a frat party. Normally, rape is not a hate crime, but the DA of the district said this was. He was subsequently disbarred, and the defendants declared innocent.",
+         "formatted_address":"Durham, NC, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5230622,
+            -122.6764816
+         ]
+      },
+      "properties":{
+         "report":56,
+         "date":"1992-10-01",
+         "location":"Portland\nOR",
+         "incident":"The police filmed a woman coming out of the house and setting fire to a cross on the front lawn. One of the inhabitants of the house, Azalea Cooley, a black lesbian who claimed to be handicapped, claimed to have been the victim of a series of hate crimes.",
+         "formatted_address":"Portland, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.8257625,
+            -96.6851982
+         ]
+      },
+      "properties":{
+         "report":63,
+         "date":"2012-07-01",
+         "location":"Lincoln\nNE",
+         "incident":"Shortly after this article was posted, Charlie Rogers was convicted of falsely claiming to be a victim of faking a hate crime against her for being a lesbian. The article also analyzes the politics of fake hate crimes and the reaction of those who promote them once their fraud is exposed.",
+         "formatted_address":"Lincoln, NE, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.8451131,
+            -76.8749722
+         ]
+      },
+      "properties":{
+         "report":64,
+         "date":"1990-08-01",
+         "location":"Forestville\nMD",
+         "incident":"Four black men were arrested in connections with three cross burnings around Prince George's County MD.",
+         "formatted_address":"Forestville, MD, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7127837,
+            -74.0059413
+         ]
+      },
+      "properties":{
+         "report":65,
+         "date":"1980-01-01",
+         "location":"New York\nNY",
+         "incident":"Curtis Silwa, founder of the Guardian Angels group, admitted that his claim to have been abducted by transit police. KKK graffiti appeared on his organization's HQ. In November 1992 he admitted having invented the abduction and the graffiti.",
+         "formatted_address":"New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            32.1632079,
+            -91.720681
+         ]
+      },
+      "properties":{
+         "report":66,
+         "date":"2012-10-21",
+         "location":"Winnsboro\nLA",
+         "incident":"Sharmeka Moffitt, a 20 yr old black woman from Lousiana, appears to have set fire to herself and blamed it on a group of white men. The police say it's a hoax.",
+         "formatted_address":"Winnsboro, LA 71295, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7282239,
+            -73.7948516
+         ]
+      },
+      "properties":{
+         "report":67,
+         "date":"1986-12-01",
+         "location":"Queens\nNY",
+         "incident":"The boy had accidentally burned himself by lighting gasoline in a fireplace. He fabricated the story in order to avoid punishment and gain sympathy.",
+         "formatted_address":"Queens, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.09944249999999,
+            -74.9325683
+         ]
+      },
+      "properties":{
+         "report":68,
+         "date":"1984-02-01",
+         "location":"Bensalem\nPA",
+         "incident":"Albert A Dawson, a 28 year old black man, was charged with 'ethnic intimidation' for setting fire to crosses on the front lawns of interracial couples. At the time, it had been believed that white racists had set the fires.",
+         "formatted_address":"Bensalem Township, PA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            36.8354258,
+            -76.2982742
+         ]
+      },
+      "properties":{
+         "report":69,
+         "date":"1987-07-01",
+         "location":"Portsmouth\nVA",
+         "incident":"Black community leaders received hate mail. Police found the fingerprints of James W Holley III, the black mayor, on the letters.",
+         "formatted_address":"Portsmouth, VA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            43.0389025,
+            -87.9064736
+         ]
+      },
+      "properties":{
+         "report":70,
+         "date":"1990-06-01",
+         "location":"Milwaukee\nWI",
+         "incident":"A black city alderman claimed that Usinger's Sausages contained rat poison. 80,000 pounds of meat was recalled, none of it was tainted. Usinger's Sausages management had opposed renaming a street... MLK.",
+         "formatted_address":"Milwaukee, WI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.6781784,
+            -73.9441579
+         ]
+      },
+      "properties":{
+         "report":71,
+         "date":"1992-09-29",
+         "location":"Brooklyn\nNY",
+         "incident":"A 16 yr old black girl said two 17 yr old white youths had yelled ethnic slurs, ripped her blouse, smeared lipstick on her chest and neck, struck her in the face and fled. She recanted the whole story 4 days later.",
+         "formatted_address":"Brooklyn, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.2526647,
+            -85.7584557
+         ]
+      },
+      "properties":{
+         "report":72,
+         "date":"1988-06-30",
+         "location":"Louisville\nKY",
+         "incident":"D'Ron Birdsong had told the FBI that David Price had been shot dead by a carload of white men shouting racial epithets. Eventually, he confessed that another black youth had done it.",
+         "formatted_address":"Louisville, KY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.7249296,
+            -122.1560768
+         ]
+      },
+      "properties":{
+         "report":73,
+         "date":"1992-09-01",
+         "location":"San Leandro\nCA",
+         "incident":"Manor Baptist Church and School in San Leandro was set on fire. Graffiti was sprayed on the wall. Police initially suspected racism. Shawn Ragan, former treasurer of the school, had been accused of embezzling $20K. His motive was partly revenge, and he sprayed racist graffiti to divert attention.",
+         "formatted_address":"San Leandro, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7830603,
+            -73.9712488
+         ]
+      },
+      "properties":{
+         "report":74,
+         "date":"1991-07-01",
+         "location":"Manhattan\nNY",
+         "incident":"Helen Clewell was murdered in her apartment. A note was left claiming to be from the KKK, containing racial slurs. Police charged a Latino man who lived on the same floor as the victim.",
+         "formatted_address":"Manhattan, New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.6365107,
+            -123.1059282
+         ]
+      },
+      "properties":{
+         "report":75,
+         "date":"1993-06-01",
+         "location":"Albany\nOR",
+         "incident":"The black stepson of Albany's white mayor drove his car into a ditch, flattening three tires. A racist note was found on the windshield. He claimed the damage was carried out by white racists. He later admitted to police he'd crashed the car and fabricated the note and the story.",
+         "formatted_address":"Albany, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.49932,
+            -81.6943605
+         ]
+      },
+      "properties":{
+         "report":76,
+         "date":"1991-06-01",
+         "location":"Cleveland\nOH",
+         "incident":"According to Cleveland prosecutor Mark McClain &quot;After the police talked to everyone, it was clear there was no racially motivated attack&quot;.",
+         "formatted_address":"Cleveland, OH, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.9582307,
+            -122.6263728
+         ]
+      },
+      "properties":{
+         "report":77,
+         "date":"1988-07-01",
+         "location":"Clearlake\nCA",
+         "incident":"A 14 yr old black boy claimed he had been shot in a racially motivated drive-by. One month later Police Chief Roger Sciutto said that the youth admitted that he had accidentally shot himself in the hand with a revolver.",
+         "formatted_address":"Clearlake, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.0814447,
+            -81.51900529999999
+         ]
+      },
+      "properties":{
+         "report":78,
+         "date":"1989-03-01",
+         "location":"Akron\nOH",
+         "incident":"2 black teenagers reported that a carload of white youths had beaten them. Police say they stole a car and crashed it, and that's how they got the injuries.",
+         "formatted_address":"Akron, OH, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.7284117,
+            -73.69178509999999
+         ]
+      },
+      "properties":{
+         "report":79,
+         "date":"1988-08-01",
+         "location":"Troy\nNY",
+         "incident":"Biracial couple reported finding their apartment walls painted with racial slurs and the initials 'KKK'. Police say they did it themselves.",
+         "formatted_address":"Troy, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            29.7604267,
+            -95.3698028
+         ]
+      },
+      "properties":{
+         "report":80,
+         "date":"1992-01-08",
+         "location":"Houston\nTX",
+         "incident":"A black minister received a hate letter which said 'This is the Klan!'. Another letter apologized for the first one. Then there was a second racist letter from someone else",
+         "formatted_address":"Houston, TX, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            32.715738,
+            -117.1610838
+         ]
+      },
+      "properties":{
+         "report":81,
+         "date":"1992-02-01",
+         "location":"San Diego\nCA",
+         "incident":"Black man Kenneth Daughrity complained that three white skinheads attacked him shouting racial epithets. He said no-one would help him and a local store wouldn't let him call.",
+         "formatted_address":"San Diego, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7127837,
+            -74.0059413
+         ]
+      },
+      "properties":{
+         "report":82,
+         "date":"1992-01-01",
+         "location":"New York\nNY",
+         "incident":"Black man Lewis Watkins, 25, claimed he had been beaten by white men shouting racial slurs and referring to a rape of a white girl by black men. The police disbelieved him.",
+         "formatted_address":"New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.5795317,
+            -74.1502007
+         ]
+      },
+      "properties":{
+         "report":83,
+         "date":"1991-10-01",
+         "location":"Staten Island\nNY",
+         "incident":"White man - his car was vandalized and his trailer set on fire.'NOW sell to niggers' was found spraypainted. However, he lives in a multi racial commmunity.",
+         "formatted_address":"Staten Island, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.9784453,
+            -76.4921829
+         ]
+      },
+      "properties":{
+         "report":84,
+         "date":"1991-04-05",
+         "location":"Annapolis\nMD",
+         "incident":"Oliver Mason III, a black man, claimed to have received a racial hate letter and claimed to have been served a dead mouse and broken glass in an omelet in a restaurant. Police say he wrote the letter.",
+         "formatted_address":"Annapolis, MD, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.5186002,
+            -104.7613633
+         ]
+      },
+      "properties":{
+         "report":85,
+         "date":"2012-05-01",
+         "location":"Parker\nCO",
+         "incident":"A lesbian couple who claimed they were victims of a hate crime have been arrested after police determined they staged the incidents. They alled police and reported the words “Kill the Gay” were scrawled in red spray paint on the garage door of their home.",
+         "formatted_address":"Parker, CO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.7881062,
+            -90.4974359
+         ]
+      },
+      "properties":{
+         "report":86,
+         "date":"1986-01-01",
+         "location":"St Charles\nMO",
+         "incident":"14 yr old black girl said 2 white men had thrown acid on her and shouted racial slurs, but her mother said it was really an accident with chemicals at a cleaning job.",
+         "formatted_address":"St Charles, MO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.7430645,
+            -94.8255166
+         ]
+      },
+      "properties":{
+         "report":87,
+         "date":"1993-02-05",
+         "location":"Spring Hill\nKS",
+         "incident":"Edna Mitchell claimed vandals had painted racist messages on her house, and called threatening to kill her kids. Then the police charged her with making false police reports.",
+         "formatted_address":"Spring Hill, KS, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            34.7540524,
+            -77.4302414
+         ]
+      },
+      "properties":{
+         "report":88,
+         "date":"1991-08-09",
+         "location":"Jacksonville\nNC",
+         "incident":"A black mayoral candidate, Charles A Lewis, found racist graffiti on his house. Then he said he was being blackmailed. A woman claimed he paid her to write the graffiti, and she blackmailed him.",
+         "formatted_address":"Jacksonville, NC, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            33.890884,
+            -117.2617329
+         ]
+      },
+      "properties":{
+         "report":89,
+         "date":"1992-10-08",
+         "location":"March air force base\nCA",
+         "incident":"Racist graffiti on black MPs dorms. Within a week a black MP was charged with writing the graffiti and witness tampering.",
+         "formatted_address":"March Air Reserve Base, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.2689476,
+            -84.26382600000001
+         ]
+      },
+      "properties":{
+         "report":90,
+         "date":"1993-09-01",
+         "location":"Loveland\nOH",
+         "incident":"The police say Milton Metcalfe set himself on fire and claimed it was white racists. He had earlier been convicted for filing a false police report of abduction. Numerous aspects of his story didn't add up.",
+         "formatted_address":"Loveland, OH, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.3541079,
+            -121.9552356
+         ]
+      },
+      "properties":{
+         "report":91,
+         "date":"1993-05-04",
+         "location":"Santa Clara\nCA",
+         "incident":"The media blew up the case where a 12 yr old black boy claimed to be the victim of a racist attack at school. Boys aged 10 to 13 were put on trial for felony hate crimes. Eventually Jake Thomson admitted the hoax.",
+         "formatted_address":"Santa Clara, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            33.4487257,
+            -84.4549262
+         ]
+      },
+      "properties":{
+         "report":92,
+         "date":"1991-03-01",
+         "location":"Fayetteville\nGA",
+         "incident":"A black couple, Marcellous and Sandra Jackson, wrote racial slurs on the walls of their home before setting it on fire, and said white racists did it. Marcellous got 15 yrs for attempted insurance fraud by arson.",
+         "formatted_address":"Fayetteville, GA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.8027644,
+            -105.0874842
+         ]
+      },
+      "properties":{
+         "report":93,
+         "date":"1990-11-29",
+         "location":"Arvada\nCO",
+         "incident":"The home of black couple Larry Williams and Patricia Anderson was ransacked and swastikas written on walls. Exactly 2 weeks later they found the home on fire and the car missing. Larry Williams' brother Lee admitted arson, and Patricia attempted theft and",
+         "formatted_address":"Arvada, CO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.0997265,
+            -94.5785667
+         ]
+      },
+      "properties":{
+         "report":94,
+         "date":"1990-07-01",
+         "location":"Kansas City\nMO",
+         "incident":"Arson at clothes store. Owner, Angela Thomas, claimed it was racist. It was actually an insurance fraud by her and Lauren D Johnson.",
+         "formatted_address":"Kansas City, MO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            29.95106579999999,
+            -90.0715323
+         ]
+      },
+      "properties":{
+         "report":95,
+         "date":"1994-02-01",
+         "location":"New Orleans\nLA",
+         "incident":"Anti Defamation League National Commission member and candidate for New Orleans mayor Donald Mintz was accused of creating a distributing racist and anti-Semitic flyers to raise sympathy.",
+         "formatted_address":"New Orleans, LA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.9312099,
+            -73.89874689999999
+         ]
+      },
+      "properties":{
+         "report":96,
+         "date":"1988-01-01",
+         "location":"Yonkers\nNY",
+         "incident":"Jewish woman Laurie A Recht claimed she received death threats after being booed at a meeting for supporting desegregation. In November 1988 she claimed to get more, plus anti-Semitic graffiti. However, she got caught.",
+         "formatted_address":"Yonkers, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7127837,
+            -74.0059413
+         ]
+      },
+      "properties":{
+         "report":97,
+         "date":"1985-11-23",
+         "location":"New York\nNY",
+         "incident":"Vandals threw rocks through windows of Jewish shops. 2 weeks later, another 7 stores' windows were broken. A Jewish guy was charged with carrying out the hoax.",
+         "formatted_address":"New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.7620842,
+            -72.7420151
+         ]
+      },
+      "properties":{
+         "report":98,
+         "date":"1983-08-01",
+         "location":"West Hartford\nCT",
+         "incident":"Another Kristallnacht lookalike incident occurred in West Hartford when three synagogues and the home of a state representative were set on fire. A Jewish 17 yr old, Barry D Schuss, confessed.",
+         "formatted_address":"West Hartford, CT, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.7749295,
+            -122.4194155
+         ]
+      },
+      "properties":{
+         "report":99,
+         "date":"1989-05-01",
+         "location":"San Francisco\nCA",
+         "incident":"TV presenter Morton Downey Jr claimed that three neo-Nazi skinheads drew a swastika on his face in SF airport. He later admitted it was a hoax.",
+         "formatted_address":"San Francisco, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.8447819,
+            -73.8648268
+         ]
+      },
+      "properties":{
+         "report":100,
+         "date":"1984-03-01",
+         "location":"Bronx\nNY",
+         "incident":"2 Jewish teenagers were charged with writing Anti-Semitic graffiti and swastikas on 51 apartments.  after they'd tried to collect the reward. As usual, the crimes received far more attention than the revelations of fraud.",
+         "formatted_address":"Bronx, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.6961188,
+            -75.0104066
+         ]
+      },
+      "properties":{
+         "report":101,
+         "date":"1987-07-15",
+         "location":"Asbury\nNJ",
+         "incident":"A Jewish woman and her Catholic husband awoke to find a fire in the shape of a swastika on their lawn. A Jewish 19 yr old confessed, but implicated a friend. Before the confession, there was much speculation and outcry.",
+         "formatted_address":"Asbury, NJ 08802, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.2203907,
+            -74.0120817
+         ]
+      },
+      "properties":{
+         "report":102,
+         "date":"1989-07-01",
+         "location":"Asbury Park\nNJ",
+         "incident":"Two Jewish teenagers were apprehended for throwing fireworks at cars. They police linked them to painting swastikas and anti-Semitic graffiti on a home and cars.",
+         "formatted_address":"Asbury Park, NJ 07712, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            43.0389025,
+            -87.9064736
+         ]
+      },
+      "properties":{
+         "report":103,
+         "date":"1985-12-15",
+         "location":"Milwaukee\nWI",
+         "incident":"The sexton of a synagogue alleged Palestinian looking men called themselves the P.D.L., referred to the Koran, and attacked him with a caustic substance. The police sensibly decided &quot;a radical group, they don't operate in this manner&quot;.",
+         "formatted_address":"Milwaukee, WI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.3113669,
+            -105.5911007
+         ]
+      },
+      "properties":{
+         "report":104,
+         "date":"1998-10-07",
+         "location":"Laramie\nWY",
+         "incident":"Was Matthew Shepard murdered for being gay?. It is almost universally believed his murder was the result of homophobia. One TV program, one article in the NY Times and the SF Chronicle, challenges that assumption. (Addition 2013/11 - and now one book).",
+         "formatted_address":"Laramie, WY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.9071923,
+            -77.03687069999999
+         ]
+      },
+      "properties":{
+         "report":105,
+         "date":"2010-07-03",
+         "location":"Washington DC",
+         "incident":"A Jewish student painted swastikas on her own door."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.9537029,
+            -93.0899578
+         ]
+      },
+      "properties":{
+         "report":106,
+         "date":"2001-06-12",
+         "location":"St Paul \nMN",
+         "incident":"Woman who claimed to be victim of hate crime accused of stealing van.",
+         "formatted_address":"St Paul, MN, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            34.2257255,
+            -77.9447102
+         ]
+      },
+      "properties":{
+         "report":107,
+         "date":"1998-11-01",
+         "location":"Wilmington\nNC",
+         "incident":"Conviction in phony hate mail case.",
+         "formatted_address":"Wilmington, NC, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.7749295,
+            -122.4194155
+         ]
+      },
+      "properties":{
+         "report":108,
+         "date":"1999-05-01",
+         "location":"San Francisco\nCA",
+         "incident":"Man admits inventing racist assault in San Francisco.",
+         "formatted_address":"San Francisco, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.7749295,
+            -122.4194155
+         ]
+      },
+      "properties":{
+         "report":109,
+         "date":"2004-05-12",
+         "location":"San Francisco\nCA",
+         "incident":"Arson at Jewish Chabad center blamed on 33-yr old Jewish man.",
+         "formatted_address":"San Francisco, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":110,
+         "date":"2001-12-01",
+         "location":"Kansas City\nMI",
+         "incident":"Linda man, woman pleads guilty to harassing other black school bus drivers"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            26.0573112,
+            -80.271716
+         ]
+      },
+      "properties":{
+         "report":111,
+         "date":"1993-04-01",
+         "location":"Cooper City\nFL",
+         "incident":"A Jewish couple, Jerome and Jamie B Roedel, found their home burglarized and  swastikas painted on the walls. Jamie Roedel collected the insurance and left her husband. In December 1993 she was charged with insurance fraud and theft.",
+         "formatted_address":"Cooper City, FL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.7749295,
+            -122.4194155
+         ]
+      },
+      "properties":{
+         "report":112,
+         "date":"2003-11-01",
+         "location":"San Francisco\nCA",
+         "incident":"Various examples of recent incidents at colleges",
+         "formatted_address":"San Francisco, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            43.8041334,
+            -120.5542012
+         ]
+      },
+      "properties":{
+         "report":113,
+         "date":"1979-12-31",
+         "location":"OR",
+         "incident":"A black employee of the coastguard in Oregon admitted his claims of racial harassment were unfounded",
+         "formatted_address":"Oregon, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.99066570000001,
+            -77.026088
+         ]
+      },
+      "properties":{
+         "report":114,
+         "date":"1986-04-08",
+         "location":"Silver Spring\nMD",
+         "incident":"Woodside Synagogue destroyed by fire. Member of synagogue questioned by police. Lt. Harding, the county fire investigator, said he thinks he knows whodunnit, but it's a sensitive subject.",
+         "formatted_address":"Silver Spring, MD, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7127837,
+            -74.0059413
+         ]
+      },
+      "properties":{
+         "report":115,
+         "date":"1979-08-01",
+         "location":"New York\nNY",
+         "incident":"Dr Sheldon Jacobson, a Jewish dentist, discovered a fire in the form of a large swastika burning on his lawn. It was thought that this was another incident in a series of racial offenses which had allegedly occurred in the area in the last few weeks.",
+         "formatted_address":"New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.9779776,
+            -122.0310733
+         ]
+      },
+      "properties":{
+         "report":116,
+         "date":"1991-05-17",
+         "location":"Concord\nCA",
+         "incident":"Fake anti-Semitic crimes from a Muslim: &quot;How many hate crimes can one bear? That's what Nathan Kobrin has been asking himself all summer in 1991. And there seems no end in sight.&quot;",
+         "formatted_address":"Concord, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.02665289999999,
+            -105.4186062
+         ]
+      },
+      "properties":{
+         "report":117,
+         "date":"1991-01-01",
+         "location":"Sugarloaf Mountain\nCO",
+         "incident":"Terry Hutter claimed to be a victim of anti-Semitic arson attacks by people who wrongly believed he is Jewish. He and another man were recorded conspiring to set the fires at his home.",
+         "formatted_address":"Sugarloaf Mountain, Colorado 80302, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.0005804,
+            -87.69257669999999
+         ]
+      },
+      "properties":{
+         "report":118,
+         "date":"1994-02-01",
+         "location":"West Rogers Park\nIL",
+         "incident":"Two teenagers vandalized and burglarized a house, leaving anti-Semitic graffiti in order to make it look like it was one of a series of unsolved anti-Semitic incidents in the area, to divert attention from themselves.",
+         "formatted_address":"West Ridge, Chicago, IL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.7392358,
+            -104.990251
+         ]
+      },
+      "properties":{
+         "report":119,
+         "date":"1990-06-10",
+         "location":"Denver\nCO",
+         "incident":"A common cause of anti-Semitic graffiti is an attempt to divert attention from an ordinary, not racist, crime. This was the case when the Eggshell restaurant in Denver was set on fire.",
+         "formatted_address":"Denver, CO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.1731621,
+            -77.2716502
+         ]
+      },
+      "properties":{
+         "report":120,
+         "date":"1991-03-22",
+         "location":"Germantown\nMD",
+         "incident":"Susan and Curtis Klein found their home vandalized, swastikas all over, most of their clothes and furniture ruined. Police suspected a hoax because of the deliberate and time consuming nature of the crime. Curtis was acquitted.",
+         "formatted_address":"Germantown, MD, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            47.2528768,
+            -122.4442906
+         ]
+      },
+      "properties":{
+         "report":121,
+         "date":"1994-10-01",
+         "location":"Tacoma \nWA",
+         "incident":"2 gay, 1 lesbian, not Jewish residents of Tacoma returned home to find their apartment vandalized with homophobic and anti-Semitic graffiti. They ended up being charged with insurance fraud and murder threats.",
+         "formatted_address":"Tacoma, WA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            47.6062095,
+            -122.3320708
+         ]
+      },
+      "properties":{
+         "report":122,
+         "date":"1990-11-01",
+         "location":"Seattle\nWA",
+         "incident":"Darres Park, a Chinese/Korean man, claimed to have been attacked by skinheads. In fact, there had been a fight between Park and one opponent, and both were armed with clubs.",
+         "formatted_address":"Seattle, WA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            43.0481221,
+            -76.14742439999999
+         ]
+      },
+      "properties":{
+         "report":123,
+         "date":"1990-07-11",
+         "location":"Syracuse\nNY",
+         "incident":"Sergie Revera Ayala claimed he had been abducted at knifepoint. The police charged him with burglarizing a nearby home. He said they were victimizing him for being Mexican. 9 months later, he admitted it wasn't true.",
+         "formatted_address":"Syracuse, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.331427,
+            -83.0457538
+         ]
+      },
+      "properties":{
+         "report":124,
+         "date":"1991-01-01",
+         "location":"Detroit\nMI",
+         "incident":"Kareem Khoury blamed anti Arab racism for a fire at his Dairy Queen. He was indicted on charges of arson and insurance fraud.",
+         "formatted_address":"Detroit, MI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            46.3237423,
+            -120.0086538
+         ]
+      },
+      "properties":{
+         "report":125,
+         "date":"1991-01-01",
+         "location":"Sunnyside\nWA",
+         "incident":"Benjamin Hull claimed that a gang of Hispanic youths shot off his leg. He later admitted he'd done it himself - to end pain in his leg resulting from a 1973 industrial accident. (!?!)",
+         "formatted_address":"Sunnyside, WA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.19439089999999,
+            -71.19896949999999
+         ]
+      },
+      "properties":{
+         "report":126,
+         "date":"1993-12-01",
+         "location":"Norwood\nMA",
+         "incident":"A 15 yr old white girl claimed to have been attacked by 4 black women who shouted racial insults. Norwood police det. sgt. William G Brooks said the girl was actually injured in a pre-arranged fight with another young woman. \"She invented the story about being jumped to explain the injuries to her parents.\"",
+         "formatted_address":"Norwood, MA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.4625362,
+            -83.1040912
+         ]
+      },
+      "properties":{
+         "report":127,
+         "date":"1989-11-01",
+         "location":"Hazel Park\nMI",
+         "incident":"A white woman told police she'd been attacked by 3 black men with bats and kidnapped her friend at an ATM. Police say the whole thing was a hoax devised by the woman, who is married, after her extramarital lover beat her up.",
+         "formatted_address":"Hazel Park, MI 48030, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            32.715738,
+            -117.1610838
+         ]
+      },
+      "properties":{
+         "report":128,
+         "date":"2010-01-01",
+         "location":"San Diego\nCA",
+         "incident":"A noose and a white hood were hung up in the library at the University of California at San Diego. A minority woman admitted doing it. The campaign against racism on campus carried on regardless.",
+         "formatted_address":"San Diego, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            33.7489954,
+            -84.3879824
+         ]
+      },
+      "properties":{
+         "report":129,
+         "date":"2009-08-08",
+         "location":"Atlanta\nGA",
+         "incident":"It's possible that a real Nazi painted a swastika outside the office of Democrat representative David Scott of Atlanta. But probably not.",
+         "formatted_address":"Atlanta, GA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.3572976,
+            -74.6672226
+         ]
+      },
+      "properties":{
+         "report":130,
+         "date":"2007-12-01",
+         "location":"Princeton\nNJ",
+         "incident":"A conservative student at Princeton University claimed to have received death threats and been beaten up by blacks because of his politics. He now admits it was a hoax, and faces charges.",
+         "formatted_address":"Princeton, NJ, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7127837,
+            -74.0059413
+         ]
+      },
+      "properties":{
+         "report":131,
+         "date":"2007-10-09",
+         "location":"New York\nNY",
+         "incident":"When an African American prof in a prestigious university in New York finds a noose at her office, it is reasonable to doubt that the Upper West Side branch of the Ku Klux Klan were responsible.",
+         "formatted_address":"New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":132,
+         "date":"2008-10-01",
+         "location":"",
+         "incident":"A Texas woman claimed a black man attacked her and carved a 'B' on her face when he saw her Republican bumper sticker. But the B is backwards and too neat - just like if she did it herself in the mirror."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            33.9519347,
+            -83.357567
+         ]
+      },
+      "properties":{
+         "report":134,
+         "date":"2008-04-08",
+         "location":"Athens\nGA",
+         "incident":"A 13 year old claimed to have been attacked for holding up a sign criticizing illegal immigration. The school district superintendent said she will be charged with making a false claim.",
+         "formatted_address":"Athens, GA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.9071923,
+            -77.03687069999999
+         ]
+      },
+      "properties":{
+         "report":135,
+         "date":"2007-10-01",
+         "location":"Washington DC",
+         "incident":"Sarah Marshak, a student at George Washington University, was caught on tape painting swastikas on her door. Incredibly, she claimed to have only drawn three of them, to draw attention to GWU's inattention to the first three."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            47.9789848,
+            -122.2020794
+         ]
+      },
+      "properties":{
+         "report":136,
+         "date":"2004-07-09",
+         "location":"Everett\nWA",
+         "incident":"Mirza Akram has been charged with faking a hate crime (a fire at his store, plus anti-Muslim graffiti) to collect insurance.",
+         "formatted_address":"Everett, WA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.9071923,
+            -77.03687069999999
+         ]
+      },
+      "properties":{
+         "report":137,
+         "date":"2007-10-01",
+         "location":"Washington DC",
+         "incident":"Not really a hate crime. An Islamophobic flyer was produced by leftists, falsely claiming to be from conservatives, but is so over the top it's funny."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.9060368,
+            -122.5449763
+         ]
+      },
+      "properties":{
+         "report":138,
+         "date":"2005-05-01",
+         "location":"Mill Valley\nCA",
+         "incident":"A lesbian student at Tamalpais high claimed she was pelted with eggs, had her locker and car vandalized, and was flooded with handmade hate messages. A homophobic threat was painted on the school.",
+         "formatted_address":"Mill Valley, CA 94941, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.8781136,
+            -87.6297982
+         ]
+      },
+      "properties":{
+         "report":139,
+         "date":"2005-04-01",
+         "location":"Chicago\nIL",
+         "incident":"Alicia Hardin admitted to sending racial slurs to other black students, then admitted it was a fake, then said the police forced her to say that.",
+         "formatted_address":"Chicago, IL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5579451,
+            -94.16324039999999
+         ]
+      },
+      "properties":{
+         "report":144,
+         "date":"1998-01-01",
+         "location":"St Cloud\nMN",
+         "incident":"In 1998, a lesbian student at St. Cloud State University faked a hate crime against herself by cutting her chest and battering her face.",
+         "formatted_address":"St Cloud, MN, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.3461017,
+            -94.8724706
+         ]
+      },
+      "properties":{
+         "report":145,
+         "date":"1988-10-01",
+         "location":"Maryville\nMO",
+         "incident":"Black student at NW Missouri Uni. claimed racially motivated assault and death threats. As many as 15 black students found KKK flyers on windshields. Then Quentin E Banks admitted he'd faked it.",
+         "formatted_address":"Maryville, MO 64468, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.7120196,
+            -73.20368979999999
+         ]
+      },
+      "properties":{
+         "report":146,
+         "date":"1993-02-01",
+         "location":"Williams\nMA",
+         "incident":"Racial slurs written on paper posted on door of Black Student Union building. The BSU made the most of it. The president informed the campus that they'd got the perp, but didn't say he was black.",
+         "formatted_address":"Williamstown, MA 01267, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.9611755,
+            -82.99879419999999
+         ]
+      },
+      "properties":{
+         "report":147,
+         "date":"1988-12-01",
+         "location":"Columbus\nOH",
+         "incident":"A white student was arrested for sending threatening letters to 13 black students and faculty. In fact, they were faked by a black teacher who wanted to get at the student for using racist words in an essay.",
+         "formatted_address":"Columbus, OH, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            33.7489954,
+            -84.3879824
+         ]
+      },
+      "properties":{
+         "report":148,
+         "date":"1990-04-01",
+         "location":"Atlanta\nGA",
+         "incident":"At Emory University a black student claimed to be on the receiving end of racist death threats. Police eventually said she did it herself. They found the threats contained errors she commonly made.",
+         "formatted_address":"Atlanta, GA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.09868669999999,
+            -75.91797380000001
+         ]
+      },
+      "properties":{
+         "report":149,
+         "date":"1988-11-01",
+         "location":"Binghampton\nNY",
+         "incident":"A former president of the Jewish student union was acquitted of carrying out a hate crime hoax. One might think the balance of probability is that he did it, but obviously, it is impossible to put it more strongly than that.",
+         "formatted_address":"Binghamton, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.6584212,
+            -74.2995928
+         ]
+      },
+      "properties":{
+         "report":150,
+         "date":"1989-12-01",
+         "location":"Cranford\nNJ",
+         "incident":"Pedro House Jr was caught painting anti-Semitic and racist slurs on a restroom wall inside Union County College. There had been a series of such graffiti, around which anti-racist campaigns were stirred up. Pedro House was an active anti-racist.",
+         "formatted_address":"Cranford, NJ, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.0153371,
+            -73.16734
+         ]
+      },
+      "properties":{
+         "report":151,
+         "date":"1983-09-01",
+         "location":"Middlebury\nVT",
+         "incident":"John Grace, a black student at Middlebury College, admitted writing racist notes and taping them to his own window. They were in his handwriting.",
+         "formatted_address":"Middlebury, VT 05753, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.8715926,
+            -122.272747
+         ]
+      },
+      "properties":{
+         "report":152,
+         "date":"1991-12-01",
+         "location":"Berkeley\nCA",
+         "incident":"4 white students were attacked by black ones at Berkeley High School following the appearance of a racist leaflet on campus. Turned out it was written by a black journalist.",
+         "formatted_address":"Berkeley, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.0839973,
+            -77.1527578
+         ]
+      },
+      "properties":{
+         "report":153,
+         "date":"1990-02-01",
+         "location":"Rockville\nMD",
+         "incident":"Vandalism at High School caused $650K damage. Swastikas and anti-Semitic messages were left. 2 were arrested; one is black, one is Jewish.",
+         "formatted_address":"Rockville, MD, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            34.1083449,
+            -117.2897652
+         ]
+      },
+      "properties":{
+         "report":154,
+         "date":"1992-01-01",
+         "location":"San Bernadino\nCA",
+         "incident":"A campus officer brought KKK flyers to school to make others aware that such material was being circulated. A black security officer put one of the flyers in his own mailbox and claimed to be a victim of racism. Then he confessed.",
+         "formatted_address":"San Bernardino, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            34.0522342,
+            -118.2436849
+         ]
+      },
+      "properties":{
+         "report":155,
+         "date":"2004-03-09",
+         "location":"Los Angeles\nCA",
+         "incident":"Kerri Dunn was charged with insurance fraud after witnesses said she had vandalized her own car with anti-Semitic and racist slurs. Convicted of insurance fraud, she got a year in jail.",
+         "formatted_address":"Los Angeles, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            46.87871759999999,
+            -113.996586
+         ]
+      },
+      "properties":{
+         "report":156,
+         "date":"2012-08-04",
+         "location":"Missoula\nMT",
+         "incident":"A gay man, Joseph Baken, injured himself doing a backflip outside a bar, then claimed he'd been targeted by rednecks.",
+         "formatted_address":"Missoula, MT, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.6612104,
+            -72.7795419
+         ]
+      },
+      "properties":{
+         "report":157,
+         "date":"2012-03-01",
+         "location":"New Britain\nCT",
+         "incident":"A lesbian student at Central Connecticut State University (CCSU) won the sympathy of hundreds of students who rallied to her defense against anti-gay remarks before police say video evidence forced her to admit she planted the messages herself.",
+         "formatted_address":"New Britain, CT, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.0911161,
+            -94.41550679999999
+         ]
+      },
+      "properties":{
+         "report":158,
+         "date":"2004-12-14",
+         "location":"Independence\nMO",
+         "incident":"Man admitted carving a homophobic word in himself after police noticed it was written backward.",
+         "formatted_address":"Independence, MO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.7261309,
+            -87.78285230000002
+         ]
+      },
+      "properties":{
+         "report":159,
+         "date":"2012-02-01",
+         "location":"Racine\nWI",
+         "incident":"A black student at the University of Wisconsin Parkside created racist flyers threatening other black students, by name.",
+         "formatted_address":"Racine, WI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            35.9131996,
+            -79.0558445
+         ]
+      },
+      "properties":{
+         "report":160,
+         "date":"2011-04-05",
+         "location":"Chapel Hill\nNC",
+         "incident":"Gay man claimed he'd been called a homophobic word and burned with a piece of hot metal at UNC campus. Authorities say it's fake.",
+         "formatted_address":"Chapel Hill, NC, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.8994744,
+            -87.9403418
+         ]
+      },
+      "properties":{
+         "report":161,
+         "date":"2009-01-19",
+         "location":"Elmhurst\nIL",
+         "incident":"Oak Brook native Safia Z Jilani has been arrested and charged with filing a false police report. She claimed to have been assaulted by a masked gunman. Jilani said her locker was defaced with a Nazi symbol and incendiary phrases a week prior to the allege",
+         "formatted_address":"Elmhurst, IL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.5186002,
+            -104.7613633
+         ]
+      },
+      "properties":{
+         "report":162,
+         "date":"2011-10-01",
+         "location":"Parker\nCO",
+         "incident":"Homophobic threats were scrawled on a Colorado home. Its lesbian inhabitants are accused of doing it to themselves in order to make their neighbors look bigoted because of a dispute over a dog.",
+         "formatted_address":"Parker, CO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.9716689,
+            -95.2352501
+         ]
+      },
+      "properties":{
+         "report":163,
+         "date":"2005-12-05",
+         "location":"Lawrence\nKS",
+         "incident":"Academic Paul Mirecki claimed to have been attacked by two white men. However, the evidence suggests otherwise.",
+         "formatted_address":"Lawrence, KS, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.0520691,
+            -123.0867536
+         ]
+      },
+      "properties":{
+         "report":164,
+         "date":"2010-02-01",
+         "location":"Eugene\nOR",
+         "incident":"A swastika was found at the height of a political campaign to persuade the university to bar a group called Pacifica Forum from meeting. The door to the LGBTQ Alliance was left open that night.",
+         "formatted_address":"Eugene, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5230622,
+            -122.6764816
+         ]
+      },
+      "properties":{
+         "report":167,
+         "date":"2008-06-09",
+         "location":"Portland\nOR",
+         "incident":"Media reported racial content to apparent attack on light rail train. Subsequent investigation revealed it was a fifty-fifty situation.",
+         "formatted_address":"Portland, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5230622,
+            -122.6764816
+         ]
+      },
+      "properties":{
+         "report":168,
+         "date":"2010-02-21",
+         "location":"Portland\nOR",
+         "incident":"Maybe Nazis enter colleges and paint swastikas on walls. Maybe not. There were several such incidents in Oregon colleges during 2010.",
+         "formatted_address":"Portland, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5230622,
+            -122.6764816
+         ]
+      },
+      "properties":{
+         "report":169,
+         "date":"2009-10-16",
+         "location":"Portland\nOR",
+         "incident":"Lewis and Clark students published a magazine mocking the Holocaust, and there were a series of swastika daubings in the college and others nearby.",
+         "formatted_address":"Portland, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5228939,
+            -122.989827
+         ]
+      },
+      "properties":{
+         "report":170,
+         "date":"2011-10-22",
+         "location":"Hillsboro\nOR",
+         "incident":"Real extremists are unlikely to think their agenda is advanced by painting 'KKK' on people's houses",
+         "formatted_address":"Hillsboro, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.7466471,
+            -122.5194378
+         ]
+      },
+      "properties":{
+         "report":171,
+         "date":"2009-06-20",
+         "location":"Clark County\nWA",
+         "incident":"Hateful graffiti is unlikely to be believed by real extremists to help their agenda",
+         "formatted_address":"Clark County, WA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.0520691,
+            -123.0867536
+         ]
+      },
+      "properties":{
+         "report":172,
+         "date":"2010-03-20",
+         "location":"Eugene\nOR",
+         "incident":"This incident was probably part of the attempt to exaggerate anti-Semitism in Eugene in order to persuade the university to ban Pacifica Forum, a controversial discussion group which had hosted holocaust deniers. In fact Eugene is one of the most liberal",
+         "formatted_address":"Eugene, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5230622,
+            -122.6764816
+         ]
+      },
+      "properties":{
+         "report":173,
+         "date":"2011-01-08",
+         "location":"Portland\nOR",
+         "incident":"Children often do things to shock. Real far-right political activists aren't likely to believe that hateful graffiti on a child's bike will win them many converts.",
+         "formatted_address":"Portland, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5230622,
+            -122.6764816
+         ]
+      },
+      "properties":{
+         "report":174,
+         "date":"2012-08-08",
+         "location":"Portland\nOR",
+         "incident":"Black politicians sometimes try to make the most of 'racism', even exaggerating it on occasion. The history of a particularly clear example can be found on this blog: http://durhamwonderland.blogspot.com",
+         "formatted_address":"Portland, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.0520691,
+            -123.0867536
+         ]
+      },
+      "properties":{
+         "report":175,
+         "date":"2010-02-05",
+         "location":"Eugene\nOR",
+         "incident":"At the time of a campaign to rid the University of Oregon of a group which hosted holocaust deniers, there was a swastika painted on the gay/lesbian center carpet. There was also a report of an anti-Semitic message on a student's locker.",
+         "formatted_address":"Eugene, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.2939386,
+            -82.21737859999999
+         ]
+      },
+      "properties":{
+         "report":176,
+         "date":"2013-02-09",
+         "location":"Oberlin\nOH",
+         "incident":"Michelle Malkin again describes suspicious activity which looks like fake hate crimes. She says this has been going on at Oberlin college since she was a student there in the 80s/90s.",
+         "formatted_address":"Oberlin, OH 44074, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5230622,
+            -122.6764816
+         ]
+      },
+      "properties":{
+         "report":177,
+         "date":"1988-11-13",
+         "location":"Portland\nOR",
+         "incident":"The murder of Mulugeta Seraw wasn't a hoax, but neither was it a premeditated lynching.",
+         "formatted_address":"Portland, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.18724040000001,
+            -76.4343173
+         ]
+      },
+      "properties":{
+         "report":178,
+         "date":"2012-07-01",
+         "location":"St. Mary's City\nMD",
+         "incident":"The VP of academic services at St. Mary’s College of Maryland says it doesn't matter if a hate crime is a hoax, it's what the student perceives it to be that matters.",
+         "formatted_address":"St Marys City, MD, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":179,
+         "date":"2013-03-01",
+         "location":"",
+         "incident":"No serious attempt to establish if hate crimes are rising."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.49932,
+            -81.6943605
+         ]
+      },
+      "properties":{
+         "report":180,
+         "date":"2007-01-01",
+         "location":"Cleveland\nOH",
+         "incident":"Hate hoaxer Ramani Sri Pilla will go to jail for six months and repay tens of thousands of dollars for having mailed racially-charged hate letters to herself and then claiming they came from various colleagues.",
+         "formatted_address":"Cleveland, OH, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.3673217,
+            -77.6077865
+         ]
+      },
+      "properties":{
+         "report":181,
+         "date":"2013-03-15",
+         "location":"Chesterfield\nVA",
+         "incident":"Olander D. Cuthrell, a black minister, has confessed to writing graffiti on his car and house, setting the house on fire, and claiming it was a hate crime.",
+         "formatted_address":"Chesterfield County, VA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.9071923,
+            -77.03687069999999
+         ]
+      },
+      "properties":{
+         "report":182,
+         "date":"2012-10-30",
+         "location":"Washington DC",
+         "incident":"A list of alleged fake crimes and reasons for the suspicion"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.3113669,
+            -105.5911007
+         ]
+      },
+      "properties":{
+         "report":183,
+         "date":"2013-05-02",
+         "location":"Laramie\nWY",
+         "incident":"Why are ‘hate crime’ hoaxes so popular on campus?",
+         "formatted_address":"Laramie, WY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.2939386,
+            -82.21737859999999
+         ]
+      },
+      "properties":{
+         "report":184,
+         "date":"2013-03-06",
+         "location":"Oberlin\nOH",
+         "incident":"Various alleged hate crime hoaxes, some of them proven.",
+         "formatted_address":"Oberlin, OH 44074, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            34.1533395,
+            -118.7616764
+         ]
+      },
+      "properties":{
+         "report":185,
+         "date":"2013-05-15",
+         "location":"Agoura Hills\nCA",
+         "incident":"It's possible that real racists wrote hateful messages in a high school, but it wouldn't advance their aims much. Surely a hoax is a more likely explanation.",
+         "formatted_address":"Agoura Hills, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.5939636,
+            -74.6049061
+         ]
+      },
+      "properties":{
+         "report":186,
+         "date":"2013-12-07",
+         "location":"Bridgewater\nNJ",
+         "incident":"A woman wrote a homophobic reason not to give a tip on a receipt in the restaurant where she worked. The customers came forward and showed that the original receipt included a tip.",
+         "formatted_address":"Bridgewater, NJ, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.7003713,
+            -73.9209701
+         ]
+      },
+      "properties":{
+         "report":187,
+         "date":"2013-12-04",
+         "location":"Vassar\nNY",
+         "incident":"Reports of bias incidents at Vassar College that involved hateful messages left on students’ doors were actually elaborate hoaxes — and the perpetrator is none other than the student member of the Bias Incident Response Team. \"It is our unfortunate duty to report that two Vassar students have admitted responsibility for creating a number of recent bias and hate-speech messages in public spaces on campus\".",
+         "formatted_address":"Poughkeepsie, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            36.3020023,
+            -88.32671069999999
+         ]
+      },
+      "properties":{
+         "report":188,
+         "date":"2013-12-24",
+         "location":"Paris\nTN",
+         "incident":"Man falsely claimed he was beaten/robbed and slur written on forehead",
+         "formatted_address":"Paris, TN 38242, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.3600825,
+            -71.0588801
+         ]
+      },
+      "properties":{
+         "report":189,
+         "date":"2013-12-05",
+         "location":"Boston\nMA",
+         "incident":"A series of alleged fake hate crimes - the details can be found in Matt Walsh's story",
+         "formatted_address":"Boston, MA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.5945273,
+            -71.7245035
+         ]
+      },
+      "properties":{
+         "report":190,
+         "date":"2013-12-05",
+         "location":"Lunenburg\nMA",
+         "incident":"Investigators looking into an alleged racist hate crime aimed at an eight-grade football player, reportedly have just one suspect — the boy’s mother.",
+         "formatted_address":"Lunenburg, MA 01462, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.7003713,
+            -73.9209701
+         ]
+      },
+      "properties":{
+         "report":191,
+         "date":"2013-11-14",
+         "location":"Poughkeepsie\nNY",
+         "incident":"Hateful messages about black people and 'trannies' are suspected to be the work of a member of the Bias Incident Response Team.",
+         "formatted_address":"Poughkeepsie, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            36.3020023,
+            -88.32671069999999
+         ]
+      },
+      "properties":{
+         "report":192,
+         "date":"2013-11-20",
+         "location":"Paris\nTN",
+         "incident":"Man arrested for allegedly faking a homophobic hate crime in Tennessee.",
+         "formatted_address":"Paris, TN 38242, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5230622,
+            -122.6764816
+         ]
+      },
+      "properties":{
+         "report":193,
+         "date":"2010-02-03",
+         "location":"Portland\nOR",
+         "incident":"A white Portland woman burned her own face with acid and claimed a black woman had committed the crime.",
+         "formatted_address":"Portland, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.8534093,
+            -121.9017954
+         ]
+      },
+      "properties":{
+         "report":194,
+         "date":"2014-02-01",
+         "location":"Contra Costa\nCA",
+         "incident":"Transgender school student admits to inventing attack. Assemblyman Tom Ammiano had said in a statement before the student’s admission was revealed, “We also have to hold the adults accountable for not providing a safe environment for all students.”",
+         "formatted_address":"Contra Costa County, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            43.0730517,
+            -89.4012302
+         ]
+      },
+      "properties":{
+         "report":195,
+         "date":"2012-10-24",
+         "location":"Madison\nWI",
+         "incident":"&quot;We are in the victims business&quot;",
+         "formatted_address":"Madison, WI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.5230622,
+            -122.6764816
+         ]
+      },
+      "properties":{
+         "report":196,
+         "date":"2014-07-08",
+         "location":"Portland\nOR",
+         "incident":"A gay activist, Adam Catanzarite, claims that an employee of the Apple Store put homophobic slur on his receipt. When you buy something at the Apple Store, you tell them your e-mail, and they type it in in front of you. It's difficult to imagine a more li",
+         "formatted_address":"Portland, OR, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.97219339999999,
+            -85.9540407
+         ]
+      },
+      "properties":{
+         "report":197,
+         "date":"2014-02-01",
+         "location":"Allendale\nMI",
+         "incident":"Statement from Grand Valley Police Department Chief Renee Freeman:",
+         "formatted_address":"Allendale, Allendale Charter Twp, MI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            35.9179271,
+            -86.86218269999999
+         ]
+      },
+      "properties":{
+         "report":198,
+         "date":"2013-09-01",
+         "location":"Williamson\nTN",
+         "incident":"After hearing that Mr Barnes denied writing the n-word on his check, Miss Jenkins said that she believes him wholeheartedly. She says she posted the check on her Facebook to make a statement about racism, not draw attention to herself.",
+         "formatted_address":"Williamson County, TN, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.8781136,
+            -87.6297982
+         ]
+      },
+      "properties":{
+         "report":199,
+         "date":"2014-11-18",
+         "location":"Chicago\nIL",
+         "incident":"A University of Chicago student who claimed his Facebook page was hacked and filled with racist and violent messages against him and another student has now admitted he faked the attack.",
+         "formatted_address":"Chicago, IL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.6270025,
+            -90.19940419999999
+         ]
+      },
+      "properties":{
+         "report":200,
+         "date":"2014-12-05",
+         "location":"St Louis\nMO",
+         "incident":"Police said Monday that a surveillance video from a nearby business shows Seherzada Dzanic, 26... just get out of her car and lie in the street shortly before a passing driver found her...",
+         "formatted_address":"St. Louis, MO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            32.735687,
+            -97.10806559999999
+         ]
+      },
+      "properties":{
+         "report":201,
+         "date":"2015-02-11",
+         "location":"Arlington\nTX",
+         "incident":"'She then stated a man got out of the truck, approached her vehicle and screamed “watch the f**k out, we’re killing all of you.”'",
+         "formatted_address":"Arlington, TX, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            47.6776832,
+            -116.7804664
+         ]
+      },
+      "properties":{
+         "report":202,
+         "date":"2009-09-01",
+         "location":"Coeur d’Alene\nID",
+         "incident":"The article in the Boise Weekly says &quot;Rachel Dolezal, who is black, says she’s been a target of a series of hate-based vandalism at her homes in Coeur d’Alene and Spokane, Wash.&quot; But it turns out she isn't black, so her other claims should be questioned too.",
+         "formatted_address":"Coeur d'Alene, ID, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.3521777,
+            -112.57717
+         ]
+      },
+      "properties":{
+         "report":203,
+         "date":"2015-04-24",
+         "location":"Delta\nUtah",
+         "incident":"Gay man claims he was assaulted, admits wounds were self inflicted",
+         "formatted_address":"Delta, UT 84624, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.2903848,
+            -76.6121893
+         ]
+      },
+      "properties":{
+         "report":205,
+         "date":"2015-07-02",
+         "location":"Baltimore\nMD",
+         "incident":"Your yard is becoming Relentlessly Gay!” the note read. “Myself and Others in the neighborhood ask that you Tone it Down. This is a Christian area and there are Children. Keep it up and I will be forced to call the police on You! Your kind need to have Respect for GOD.”",
+         "formatted_address":"Baltimore, MD, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.7392358,
+            -104.990251
+         ]
+      },
+      "properties":{
+         "report":206,
+         "date":"2015-06-01",
+         "location":"Denver\nCO",
+         "incident":"A Colorado Springs man was arrested after police believe he left racist messages outside a church. Vincent Broughton, 44, who is black, is facing charges for committed a bias-motivated crime and disorderly conduct.",
+         "formatted_address":"Denver, CO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.4594803,
+            -83.18270509999999
+         ]
+      },
+      "properties":{
+         "report":207,
+         "date":"2012-06-03",
+         "location":"Oak Park\nMI",
+         "incident":"Club owner Frank Elliot has been arrested and charged with insurance fraud following his claim that his bar was targeted in a hate crime.",
+         "formatted_address":"Oak Park, MI 48237, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            45.6318397,
+            -122.6716063
+         ]
+      },
+      "properties":{
+         "report":208,
+         "date":"2015-05-01",
+         "location":"Vancouver\nWA",
+         "incident":"A series of examples of fake rape claims, plus a few fake hate crimes",
+         "formatted_address":"Vancouver, WA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.88644679999999,
+            -78.8783689
+         ]
+      },
+      "properties":{
+         "report":209,
+         "date":"2015-09-16",
+         "location":"Buffalo\nNY",
+         "incident":"The alleged victim admitted she did it",
+         "formatted_address":"Buffalo, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            32.1632079,
+            -91.720681
+         ]
+      },
+      "properties":{
+         "report":211,
+         "date":"2015-03-20",
+         "location":"WInnsboro\nLA",
+         "incident":"A list of ten solved hate crime hoaxes",
+         "formatted_address":"Winnsboro, LA 71295, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            47.9252568,
+            -97.0328547
+         ]
+      },
+      "properties":{
+         "report":212,
+         "date":"2015-08-30",
+         "location":"Grand Forks\nND",
+         "incident":"Through interviews with people at the party, a police investigation found multiple witnesses including sober members of the fraternity and a friend of Gisvold's said he was not the victim.",
+         "formatted_address":"Grand Forks, ND, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            43.4194699,
+            -83.9508068
+         ]
+      },
+      "properties":{
+         "report":213,
+         "date":"2015-11-13",
+         "location":"Saginaw\nMI",
+         "incident":"Black student threatened to shoot other black students on campus",
+         "formatted_address":"Saginaw, MI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.6975898,
+            -74.26316349999999
+         ]
+      },
+      "properties":{
+         "report":214,
+         "date":"2016-06-30",
+         "location":"Union\nNJ",
+         "incident":"Kayla-Simone McKelvey, 24, of Union was charged by summons with third-degree creating a false public alarm",
+         "formatted_address":"Union, NJ, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            29.7604267,
+            -95.3698028
+         ]
+      },
+      "properties":{
+         "report":215,
+         "date":"2016-01-01",
+         "location":"Houston\nTX",
+         "incident":"Devout Muslim attendee of a Houston mosque was arrested after torching it on Christmas Day.",
+         "formatted_address":"Houston, TX, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            37.4418834,
+            -122.1430195
+         ]
+      },
+      "properties":{
+         "report":216,
+         "date":"2015-07-17",
+         "location":"Palo Alto\nCA",
+         "incident":"Jesus Cabrera, a Hispanic graffiti vandal, falsely claimed that he was assaulted with a screwdriver and racially harassed by white males. In reality, he was assaulted by rival gang members.",
+         "formatted_address":"Palo Alto, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.6525793,
+            -73.7562317
+         ]
+      },
+      "properties":{
+         "report":217,
+         "date":"2016-01-30",
+         "location":"Albany\nNY",
+         "incident":"Video from the bus and witnesses falsify the three black students' claim of being the victims of a racist attack.",
+         "formatted_address":"Albany, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":218,
+         "date":"2016-04-01",
+         "location":"Molenbeek\nBrussels",
+         "incident":"The world's media reported a Muslim woman who was run over in Molenbeek, Belgium, as a victim of a hate crime. In fact, she was hit by a drunk called &quot;Mohammed&quot;."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.6639916,
+            -74.2107006
+         ]
+      },
+      "properties":{
+         "report":219,
+         "date":"2015-11-16",
+         "location":"Elizabeth\nNJ",
+         "incident":"Kayla McKelvey pleaded guilty to sending threats to other black students to inspire them to attend an anti-racism rally.",
+         "formatted_address":"Elizabeth, NJ, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.72815749999999,
+            -74.0776417
+         ]
+      },
+      "properties":{
+         "report":220,
+         "date":"2013-08-01",
+         "location":"Jersey City\nNJ",
+         "incident":"A school official in a Jersey City high school said a 16-year old black kid sent racist texts to himself urging him not to run for student government president. He added the hoax is over and the 16-year-old no longer attends the school. No name was released because he is a minor.",
+         "formatted_address":"Jersey City, NJ, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.6975898,
+            -74.26316349999999
+         ]
+      },
+      "properties":{
+         "report":221,
+         "date":"2015-11-18",
+         "location":"Union\nNew Jersey",
+         "incident":"Black woman later convicted of sending hat tweets.",
+         "formatted_address":"Union, NJ, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.3606736,
+            -75.5993692
+         ]
+      },
+      "properties":{
+         "report":222,
+         "date":"2016-04-27",
+         "location":"Salisbury\nMaryland",
+         "incident":"Black students at Salisbury University drew a lynched stick figure accompanied by the words &quot;nigger&quot; and &quot;#whitepower&quot; in the university's library according to a professor.",
+         "formatted_address":"Salisbury, MD, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7127837,
+            -74.0059413
+         ]
+      },
+      "properties":{
+         "report":223,
+         "date":"2016-03-24",
+         "location":"New York\nNY",
+         "incident":"Various hate crime hoaxes, many of them listed elsewhere on this site",
+         "formatted_address":"New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.6611277,
+            -91.5301683
+         ]
+      },
+      "properties":{
+         "report":224,
+         "date":"2016-01-16",
+         "location":"Iowa City\nIowa",
+         "incident":"The article says the family issued an apology and said that his account of the incident was inconsistent with police findings.",
+         "formatted_address":"Iowa City, IA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            30.267153,
+            -97.7430608
+         ]
+      },
+      "properties":{
+         "report":225,
+         "date":"2016-04-01",
+         "location":"Austin\nTX",
+         "incident":"Gay pastor falsely accused Whole Foods of adding Homophobic Slur to cake he ordered.",
+         "formatted_address":"Austin, TX, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.6525793,
+            -73.7562317
+         ]
+      },
+      "properties":{
+         "report":226,
+         "date":"2016-02-03",
+         "location":"Albany\nNY",
+         "incident":"Three black students at the University at Albany had been attacked on a city bus by a group of white men who used racial slurs as other passengers and the driver sat silently by.",
+         "formatted_address":"Albany, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.6611277,
+            -91.5301683
+         ]
+      },
+      "properties":{
+         "report":227,
+         "date":"2016-05-17",
+         "location":"Iowa City\nIowa",
+         "incident":"Marcus Owens, a black University of Iowa student, lied about being the victim of a hate crime and was actually the instigator.",
+         "formatted_address":"Iowa City, IA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.8781136,
+            -87.6297982
+         ]
+      },
+      "properties":{
+         "report":228,
+         "date":"2016-05-27",
+         "location":"Chicago\nIL",
+         "incident":"Student arrested for painting obscene pro-Donald Trump, anti-Mexico graffito is a social justice activist. A noose was also found - a common event at campuses when conservatives are speaking. Milo Yiannopoulos was speaking at DePaul.",
+         "formatted_address":"Chicago, IL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":229,
+         "date":"2015-03-31",
+         "location":"Inglostadt\nBavaria",
+         "incident":"The perpetrator, a Syrian immigrant, admitted to painting swastikas before starting the fire."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            34.0522342,
+            -118.2436849
+         ]
+      },
+      "properties":{
+         "report":230,
+         "date":"2016-06-27",
+         "location":"Los Angeles\nCA",
+         "incident":"Los Angeles Sheriff's Department has charged Calum McSwiggan with making a false police report after he was allegedly seen hitting himself with a phone in jail.",
+         "formatted_address":"Los Angeles, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.4153925,
+            -71.1564729
+         ]
+      },
+      "properties":{
+         "report":231,
+         "date":"2016-07-06",
+         "location":"Arlington\nMA",
+         "incident":"A student at Ottoson Middle School falsely reported that he/she had received racist text messages according to the Arlington police and a school superintendent.",
+         "formatted_address":"Arlington, MA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":232,
+         "date":"2016-01-01",
+         "location":"Wismar",
+         "incident":"Julian Kinzel alleged in January that right wing extremists slashed him 17 times with a knife while calling him a “gay communist”. The prosecutor says it's a hoax."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":233,
+         "date":"2007-11-01",
+         "location":"München",
+         "incident":"A 17-year-old claimed four neo-Nazis carved a swastika on her when she helped a migrant child. She was convicted of doing it herself, and got 40 hours community service."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            47.12113309999999,
+            -88.5694182
+         ]
+      },
+      "properties":{
+         "report":234,
+         "date":"2015-11-01",
+         "location":"Houghton\nMI",
+         "incident":"According to a lawsuit filed against Michigan Tech, the university wrongfully expelled a student after accusing him of making a racial threat on Yik Yak.",
+         "formatted_address":"Houghton, MI 49931, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7127837,
+            -74.0059413
+         ]
+      },
+      "properties":{
+         "report":235,
+         "date":"2016-09-12",
+         "location":"New York\nNY",
+         "incident":"A Muslim woman was set on fire in New York. The Guardian assumed it was a hate crime. The next day, it published another story saying a man had set several women alight, and only one of them was a Muslim, so it wasn't a hate crime.",
+         "formatted_address":"New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            32.2973676,
+            -97.0772272
+         ]
+      },
+      "properties":{
+         "report":236,
+         "date":"2016-01-01",
+         "location":"Auburn\nTX",
+         "incident":"Milo Yiannopoulos claims lesbians are particularly prone to commit hate crime hoaxes",
+         "formatted_address":"Auburn, TX 76050, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            34.0522342,
+            -118.2436849
+         ]
+      },
+      "properties":{
+         "report":237,
+         "date":"2016-09-30",
+         "location":"Los Angeles\nCA",
+         "incident":"On Monday, the 26-year-old McSwiggan, pleaded not guilty to one felony count of vandalism over $400 damage and one misdemeanor count of [filing a] false report to a peace officer.",
+         "formatted_address":"Los Angeles, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            43.8013556,
+            -91.23958069999999
+         ]
+      },
+      "properties":{
+         "report":238,
+         "date":"2016-09-01",
+         "location":"La Crosse\nWI",
+         "incident":"The University of La Crosse Hate Response Team said that over 10% of the reports it has received are either fake or frivolous.",
+         "formatted_address":"La Crosse, WI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":239,
+         "date":"2016-06-25",
+         "location":"London\nUK",
+         "incident":"The referendum on EU membership in the UK supposedly led to an increase in hate crime."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":240,
+         "date":"2015-11-13",
+         "location":"Birmingham\nUK",
+         "incident":"Miss Choudhury was convicted of wasting police time after they'd spent hours going through CCTV footage and found no crime being committed where and when she claimed she had been punched in the face by a stranger. She had said she was too scared to walk alone after the made-up attack and claimed Muslims were being targeted after the atrocities in the French capital."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            30.4582829,
+            -91.1403196
+         ]
+      },
+      "properties":{
+         "report":241,
+         "date":"2016-10-19",
+         "location":"Baton Rouge\nLA",
+         "incident":"The student thought she saw a noose last year, but it was just a piece of cable. Rather than being embarrassed, she doubled down, and said “if black students were more accepted here, I wouldn’t have thought a noose.”",
+         "formatted_address":"Baton Rouge, LA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.6837226,
+            -75.74965720000002
+         ]
+      },
+      "properties":{
+         "report":242,
+         "date":"2015-09-23",
+         "location":"Newark\nDE",
+         "incident":"No noose is good noose",
+         "formatted_address":"Newark, DE, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            32.4487364,
+            -99.73314390000002
+         ]
+      },
+      "properties":{
+         "report":243,
+         "date":"2014-04-03",
+         "location":"Abilene\nTX",
+         "incident":"Someone posted nasty racist tweets and images on twitter and students' cars in the Abilene Christian University parking lot",
+         "formatted_address":"Abilene, TX, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            30.2240897,
+            -92.0198427
+         ]
+      },
+      "properties":{
+         "report":245,
+         "date":"2016-11-09",
+         "location":"Lafayette\nLouisiana",
+         "incident":"A female student at UL-Lafayette claimed that two males, one wearing Trump clothing, assaulted her. She claims that they hit her over the head with a metal object, kicked her as she lay on ground, and then stole her purse/wallet.",
+         "formatted_address":"Lafayette, LA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.8781136,
+            -87.6297982
+         ]
+      },
+      "properties":{
+         "report":246,
+         "date":"2016-11-09",
+         "location":"Chicago\nIL",
+         "incident":"Victim stated it was about a traffic related issue.",
+         "formatted_address":"Chicago, IL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.9525839,
+            -75.1652215
+         ]
+      },
+      "properties":{
+         "report":247,
+         "date":"2016-11-09",
+         "location":"Philadelphia\nPA",
+         "incident":"Around 5 a.m.., three vehicles and one house were spray-painted, each in black, with messages that read “Trump Rules,” “Trump Rules Black B---h” and the letter “T.”",
+         "formatted_address":"Philadelphia, PA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            34.0194543,
+            -118.4911912
+         ]
+      },
+      "properties":{
+         "report":248,
+         "date":"2016-11-08",
+         "location":"Santa Monica\nCA",
+         "incident":"Claim: Gay Canadian filmmaker Chris Ball was severely beaten and bloodied by emboldened Donald Trump supporters shortly after the 2016 election.",
+         "formatted_address":"Santa Monica, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":249,
+         "date":"2016-01-01",
+         "location":"",
+         "incident":"Not a hoax. A traffic accident started the interaction but the black people immediately made it racially charged by saying he was &quot;one of those white Trump supporters&quot; which the victim confirmed he supported Trump and then was attacked."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.52357920000001,
+            -89.574563
+         ]
+      },
+      "properties":{
+         "report":250,
+         "date":"2016-11-10",
+         "location":"Stevens Point\nWisconsin",
+         "incident":"It was simple vandalism (grafitti) consisting of a campaign slogan and not a racial slur nor 'racial vandalism'",
+         "formatted_address":"Stevens Point, WI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            47.6062095,
+            -122.3320708
+         ]
+      },
+      "properties":{
+         "report":251,
+         "date":"2016-11-10",
+         "location":"Seattle\nWashington",
+         "incident":"There is no police report or video evidence.",
+         "formatted_address":"Seattle, WA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            31.951823,
+            -97.3214012
+         ]
+      },
+      "properties":{
+         "report":252,
+         "date":"2016-09-08",
+         "location":"Whitney\nTX",
+         "incident":"Police say Scott Lattin vandalized his own truck with messages like &quot;F--- your flag, your family, your feelings, your faith.&quot;",
+         "formatted_address":"Whitney, TX 76692, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.4250964,
+            -71.066163
+         ]
+      },
+      "properties":{
+         "report":253,
+         "date":"2016-11-15",
+         "location":"Malden\nMA",
+         "incident":"Black man in Malden, MA admits filing false report of hate crime",
+         "formatted_address":"Malden, MA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.3747744,
+            -83.6513229
+         ]
+      },
+      "properties":{
+         "report":254,
+         "date":"2016-11-09",
+         "location":"Bowling Green\nOH",
+         "incident":"Black student, Eleesha Long, falsely claimed to have been racially assaulted &amp; harassed by 3 white men",
+         "formatted_address":"Bowling Green, OH, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.8781136,
+            -87.6297982
+         ]
+      },
+      "properties":{
+         "report":255,
+         "date":"2016-11-14",
+         "location":"Chicago\nIL",
+         "incident":"A complaint regarding homophobic harassment supposedly done in the name of Donald Trump has been investigated by North Park University and deemed to be a hoax.",
+         "formatted_address":"Chicago, IL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            43.0730517,
+            -89.4012302
+         ]
+      },
+      "properties":{
+         "report":256,
+         "date":"2016-11-20",
+         "location":"Madison\nWI",
+         "incident":"Students had been invited to express their feelings about the election by writing them on Post-it notes and placing them on a designated table.",
+         "formatted_address":"Madison, WI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.9525839,
+            -75.1652215
+         ]
+      },
+      "properties":{
+         "report":257,
+         "date":"2016-11-09",
+         "location":"Philadelphia\nPA",
+         "incident":"A black man has been charged with writing graffiti which makes Trump supporters look bad. Either he is a really dumb Trump supporter, or an incompetent hate hoaxer.",
+         "formatted_address":"Philadelphia, PA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.043912,
+            -75.3754599
+         ]
+      },
+      "properties":{
+         "report":258,
+         "date":"2016-11-10",
+         "location":"Radnor Township\nPA",
+         "incident":"A black female student claimed she was assaulted by three white men shouting &quot;Trump!&quot; Then she dropped the case, and so did her university, Villanova. But the university is not saying it was a hoax.",
+         "formatted_address":"Radnor Township, PA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.9071923,
+            -77.03687069999999
+         ]
+      },
+      "properties":{
+         "report":259,
+         "date":"2015-12-31",
+         "location":"Washington DC",
+         "incident":"This is the FBI's current definition of hate crime"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.9525839,
+            -75.1652215
+         ]
+      },
+      "properties":{
+         "report":260,
+         "date":"2016-01-01",
+         "location":"Philadelphia\nPA",
+         "incident":"Woman finds pro trump and racist graffiti on her car.",
+         "formatted_address":"Philadelphia, PA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7127837,
+            -74.0059413
+         ]
+      },
+      "properties":{
+         "report":261,
+         "date":"2016-11-09",
+         "location":"New York\nNY",
+         "incident":"The SPLC ignored at least 2,000 bias-related incidents against white students from their report on post-election hate crimes, which focuses instead on “anti-immigrant sentiment,” etc..",
+         "formatted_address":"New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.4758825,
+            -73.21207199999999
+         ]
+      },
+      "properties":{
+         "report":263,
+         "date":"2016-12-05",
+         "location":"Burlington\nVT",
+         "incident":"The Social Justice League at Saint Michael's College in Vermont found &quot;Make America Great Again&quot; written on a whiteboard outside its office. It's not a hoax, but has led to a reaction calling it a hate crime - the &quot;hoax&quot; is in the reaction, not the act, although the hoaxers don't realise they are faking it. The League claims on Facebook “The intent behind this act is very clear. It is not just an act of free speech, it is targeted hate” because it is Donald Trump's election slogan.",
+         "formatted_address":"Burlington, VT, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            28.5383355,
+            -81.3792365
+         ]
+      },
+      "properties":{
+         "report":264,
+         "date":"2016-06-12",
+         "location":"Orlando\nFL",
+         "incident":"The SPLC is classifying Islamic violence as white nationalist hate crimes.",
+         "formatted_address":"Orlando, FL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            29.7604267,
+            -95.3698028
+         ]
+      },
+      "properties":{
+         "report":265,
+         "date":"2015-12-25",
+         "location":"Houston\nTX",
+         "incident":"A man was convicted of setting fire to his own mosque.",
+         "formatted_address":"Houston, TX, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.098408,
+            -76.04936839999999
+         ]
+      },
+      "properties":{
+         "report":266,
+         "date":"2016-08-01",
+         "location":"Endicott\nNY",
+         "incident":"A New York firefighter has been charged with committing a fake hate crime by setting fire to his own house, which had a &quot;Blue Lives Matter&quot; sign - which is a way of supporting the police in response to the &quot;Black Lives Matter&quot; movement, to make it look as if Black Lives Matter activists did it.",
+         "formatted_address":"Endicott, NY 13760, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.7127837,
+            -74.0059413
+         ]
+      },
+      "properties":{
+         "report":267,
+         "date":"2016-12-09",
+         "location":"New York\nNY",
+         "incident":"Yasmin Seweid, 18, has been charged with filing a false report. The Muslim college student claimed she was harassed on the subway by three men who shouted “Donald Trump,” called her a terrorist and tried to rip her hijab off her head. She has now admitted to detectives that she concocted the entire story.",
+         "formatted_address":"New York, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            29.2858129,
+            -81.0558894
+         ]
+      },
+      "properties":{
+         "report":268,
+         "date":"2016-12-10",
+         "location":"Ormond Beach\nFL",
+         "incident":"Police say Vincent Palmer, 27, told them he taped a note with racial slurs and the words &quot;KKK&quot; and &quot;Trump&quot; written on it to his ex-girlfriend's mailbox early Saturday before throwing a brick through her car window and dousing the back seat in gasoline because they were having problems over the custody of their children, according to an arrest report.",
+         "formatted_address":"Ormond Beach, FL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":269,
+         "date":"2016-11-28",
+         "location":"London\nUK",
+         "incident":"The UK anti-racist group Hope Not Hate exaggerated the amount of hatred online about MP Jo Cox, who was murdered by a mentally disturbed far-right winger."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            36.09827620000001,
+            -79.5115433
+         ]
+      },
+      "properties":{
+         "report":270,
+         "date":"2016-11-10",
+         "location":"Elon\nNC",
+         "incident":"At Elon University, someone wrote “Bye Bye Latinos Hasta La Vista” on a whiteboard. The administration made the usual noises about &quot;inclusion, diversity and respect&quot;, then it turned out that it was Latino students who had written the hateful message &quot;as a joke&quot;.",
+         "formatted_address":"Elon, NC, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            35.2225668,
+            -97.4394777
+         ]
+      },
+      "properties":{
+         "report":271,
+         "date":"2016-11-15",
+         "location":"Norman\nOK",
+         "incident":"Professor Mashhad Fahes claims she, and another person,  were handed an “anti-Muslim” pamphlet. But the police have no record of professor Fahes' report of being handed an Islamophobic pamphlet, nor of someone else reporting similar.",
+         "formatted_address":"Norman, OK, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            33.4053949,
+            -90.89760070000001
+         ]
+      },
+      "properties":{
+         "report":273,
+         "date":"2016-11-01",
+         "location":"Leland\nMississippi",
+         "incident":"An African-American man set fire and vandalized a predominantly black church. He was part of the congregation.",
+         "formatted_address":"Leland, MS 38756, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.2808256,
+            -83.7430378
+         ]
+      },
+      "properties":{
+         "report":274,
+         "date":"2016-11-11",
+         "location":"Ann Arbor\nMI",
+         "incident":"Ann Arbor police say a report of ethnic intimidation involving a woman wearing a hijab did not actually happen.",
+         "formatted_address":"Ann Arbor, MI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            33.2148412,
+            -97.13306829999999
+         ]
+      },
+      "properties":{
+         "report":275,
+         "date":"2016-12-26",
+         "location":"Denton\nTexas",
+         "incident":"A white man admits he spray painted &quot;N*gger Lovers&quot; on his house &amp; torched his truck &amp; motorcycle.",
+         "formatted_address":"Denton, TX, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.7546987,
+            -74.3235539
+         ]
+      },
+      "properties":{
+         "report":276,
+         "date":"2017-01-01",
+         "location":"Esperance\nNY",
+         "incident":"Police believe the 13 y.o. was unmotivated by bias. He saw it in a video game.",
+         "formatted_address":"Esperance, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.2903848,
+            -76.6121893
+         ]
+      },
+      "properties":{
+         "report":277,
+         "date":"2017-01-10",
+         "location":"Baltimore area\nMD",
+         "incident":"See summary of content.",
+         "formatted_address":"Baltimore, MD, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            32.715738,
+            -117.1610838
+         ]
+      },
+      "properties":{
+         "report":278,
+         "date":"2016-11-10",
+         "location":"San Diego\nCA",
+         "incident":"Muslim woman claimed Trump supporters attacked her, took her purse, backpack and car keys, then stole her car. But her car was still where she parked it, and she withdrew her complaint.",
+         "formatted_address":"San Diego, CA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":279,
+         "date":"2017-01-15",
+         "location":"Vienna\nAustria",
+         "incident":"A girl claimed on social media she had been called a 'terrorist' and was pushed onto the tracks by a man who had taken offence at her headscarf at a railway station in the Austrian capital of Vienna."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.9071923,
+            -77.03687069999999
+         ]
+      },
+      "properties":{
+         "report":282,
+         "date":"2016-12-30",
+         "location":"Washington DC",
+         "incident":"A summary of some of the fake hate crimes since the election of Donald Trump on November 8 2016."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.5083482,
+            -89.03177649999999
+         ]
+      },
+      "properties":{
+         "report":283,
+         "date":"2017-02-01",
+         "location":"Beloit\nWI",
+         "incident":"Michael Kee, a Beloit College student, spray painted anti-Muslim graffiti on his dorm door &amp; on a wall for attention.",
+         "formatted_address":"Beloit, WI 53511, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.9689532,
+            -82.93768039999999
+         ]
+      },
+      "properties":{
+         "report":284,
+         "date":"2017-01-26",
+         "location":"Bexley\nOH",
+         "incident":"Jalen Mitchell, a black student, admitted to committing many false hate crimes.",
+         "formatted_address":"Bexley, OH 43209, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.68989550000001,
+            -83.7411631
+         ]
+      },
+      "properties":{
+         "report":285,
+         "date":"2017-01-10",
+         "location":"Sylvania Township\nOH",
+         "incident":"Osama Nazzal was charged with spray painting anti-Arab graffiti on an Arab family's house.",
+         "formatted_address":"Sylvania Township, OH, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.9611755,
+            -82.99879419999999
+         ]
+      },
+      "properties":{
+         "report":286,
+         "date":"2017-01-26",
+         "location":"Columbus\nOH",
+         "incident":"Jalen Mitchell reported to campus police on Jan. 26 that he found a note containing racist and homophobic language taped to the back door of his university-owned residence. After further investigation, campus police determined that the incident was a fabrication.",
+         "formatted_address":"Columbus, OH, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.0437567,
+            -77.4874416
+         ]
+      },
+      "properties":{
+         "report":287,
+         "date":"2017-01-07",
+         "location":"Ashburn\nVA",
+         "incident":"There are two sides to the story. The waitress says customers left a racist note, the customers say they didn't.",
+         "formatted_address":"Ashburn, VA, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.6496868,
+            -93.24271999999999
+         ]
+      },
+      "properties":{
+         "report":288,
+         "date":"2017-02-27",
+         "location":"Lakeville\nMN",
+         "incident":"Racist graffiti found at high school. Suspect is &quot;non-Caucasian&quot; say officials.",
+         "formatted_address":"Lakeville, MN, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":289,
+         "date":"2017-03-02",
+         "location":"Montreal\nQuebec",
+         "incident":"Montreal man charged with terror hoax after bomb threat targeting Muslim university students"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            39.5069974,
+            -84.74523099999999
+         ]
+      },
+      "properties":{
+         "report":290,
+         "date":"1998-10-30",
+         "location":"Oxford\nOH",
+         "incident":"Two black students charged for posting racist messages supporting the Ku Klux Klan",
+         "formatted_address":"Oxford, OH 45056, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            41.8781136,
+            -87.6297982
+         ]
+      },
+      "properties":{
+         "report":291,
+         "date":"2015-12-11",
+         "location":"Chicago\nIllinois",
+         "incident":"False report of anti-Muslim abuse on a Chicago bus.",
+         "formatted_address":"Chicago, IL, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            40.6781784,
+            -73.9441579
+         ]
+      },
+      "properties":{
+         "report":292,
+         "date":"2017-03-05",
+         "location":"Brooklyn\nNew York",
+         "incident":"Vandals not responsible for tipped graves at Jewish cemetery",
+         "formatted_address":"Brooklyn, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            38.6270025,
+            -90.19940419999999
+         ]
+      },
+      "properties":{
+         "report":293,
+         "date":"2017-02-22",
+         "location":"St Louis\nMissouri",
+         "incident":"CNN &amp; SPLC blames whites for bomb threats made by black leftist",
+         "formatted_address":"St. Louis, MO, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.2808256,
+            -83.7430378
+         ]
+      },
+      "properties":{
+         "report":294,
+         "date":"2016-11-15",
+         "location":"Ann Arbor\nMI",
+         "incident":"Halley Bass falsely reported that a white man scratched her face because she wore a &quot;solidarity pin&quot;.",
+         "formatted_address":"Ann Arbor, MI, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            42.8142432,
+            -73.9395687
+         ]
+      },
+      "properties":{
+         "report":295,
+         "date":"2017-02-10",
+         "location":"Schenectady\nNY",
+         "incident":"Jewish man, Andrew King, spray painted his home with three swastikas &amp; claimed to be a victim.",
+         "formatted_address":"Schenectady, NY, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+
+         ]
+      },
+      "properties":{
+         "report":296,
+         "date":"2017-03-01",
+         "location":"",
+         "incident":"Israeli police say they have arrested a 19-year-old Israeli Jewish man as the primary suspect in a string of bomb threats targeting Jewish community centers in the U.S."
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            44.3258932,
+            -93.955691
+         ]
+      },
+      "properties":{
+         "report":297,
+         "date":"2017-03-24",
+         "location":"St. Peter\nMN",
+         "incident":"The “Diversity Leadership Council” at Gustavus Adolphus College has admitted to posting racially offensive posters around campus after the school’s Bias Response Team received multiple reports on the matter.",
+         "formatted_address":"St Peter, MN 56082, USA"
+      }
+   },
+   {
+      "type":"Feature",
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            35.2270869,
+            -80.8431267
+         ]
+      },
+      "properties":{
+         "report":298,
+         "date":"2017-04-01",
+         "location":"Charlotte\nNC",
+         "incident":"A black man has been charged with leaving a threatening letter outside a Nepali/Indian store claiming to come from &quot;White America&quot;.",
+         "formatted_address":"Charlotte, NC, USA"
+      }
+   }
+]
